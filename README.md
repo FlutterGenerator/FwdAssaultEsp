@@ -3,8 +3,8 @@
 
 [![License Info](https://img.shields.io/badge/License-GPL--3.0-blue.svg?style=flat-square)](https://github.com/FlutterGenerator/FwdAssaultEsp/blob/master/LICENSE)
 
-# Zombie Fire Version: (26082404) – 1.5.4
-**Google Play Release Date:** 25 August 2026
+# Fwd Assault Version: (600335) – 1.2028
+**Google Play Release Date:** 3 Nowember 2022
 
 ![](img.jpg)
 
